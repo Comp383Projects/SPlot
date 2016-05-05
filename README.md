@@ -1,4 +1,4 @@
-# SPlot:
+# SPlot 2.0:
 SPlot is a tool used to find HGT events and RUCPs throughout genomes built in JAVA with the Glimpse data visualization framework and JeUtils BLAST searching package (all packaged in SPlot JAR).
 
 #System Requirements:
