@@ -9,7 +9,7 @@ OpenGL Compatible Graphics Card/Drivers
 Download is availible via Google Drive: https://drive.google.com/file/d/0B-yWo52TprPralQxbU5JNlRlQnM/view?usp=sharing
 
 #How to Setup SPlot run:
-1) Double click on SPlot JAR file.
+1) Double click on SPlot JAR file. <br>
 2) Type in kmer size (Note: large kmer sizes will not produce informative SPlots). Recommended: 3 or 4.
 3) Type in window size (Note: the limit is system dependent -> size 500-5000 recommended, with a larger genome requiring larger size)
 4) Type in Sequence Names (these are used for output file naming, as well as labeling the SPlot)
