@@ -6,7 +6,8 @@ Java Version 8 <br>
 OpenGL Compatible Graphics Card/Drivers
 
 #How to Download:
-Download is available as SPlotv4 from GitHub, as well as Sample Data (seq1/seq2 are Urine Gardnerella Vaginalis, where as the other two genomes are chr21 from Humans and Chimpanzees).
+Download is available as SPlotv4 from GitHub, as well as Sample Data (seq1/seq2 are Urine Gardnerella Vaginalis, where as the other two genomes are chr21 from Humans and Chimpanzees). <br>
+The main, which houses most of SPlot is commented and available for viewing above.
 
 #How to Setup SPlot run:
 1) Double click on SPlot JAR file. <br>
