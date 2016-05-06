@@ -11,8 +11,8 @@ The main, which houses most of SPlot is commented and available for viewing abov
 
 #How to Setup SPlot run:
 1) Double click on SPlot JAR file. <br>
-2) Type in kmer size (Note: large kmer sizes will not produce informative SPlots). Recommended: 3 or 4. <br>
-3) Type in window size (Note: the limit is system dependent -> size 500-5000 recommended, with a larger genome requiring larger size). <br>
+2) Type in kmer size (Note: large kmer sizes will not produce informative SPlots). Recommended: 3 or 4. Depending on hardware, there are limitations. <br>
+3) Type in window size (Note: the limit is system dependent -> size 500-5000 recommended, with a larger genome requiring larger size). Depending on hardware, there are limitations. <br>
 4) Type in Sequence Names (these are used for output file naming, as well as labeling the SPlot) <br>
 5) Click on the First/Second Sequence button and navigate to your sequence (NOTE: FASTA files do not work yet-> only sequences allowed, aka: all headers/non-standard letters must be deleted). <br>
 6) Submit for SPlot Visualization. (Note: currently no loading screen) <br>
