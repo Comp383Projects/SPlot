@@ -13,7 +13,7 @@ Download is available as SPlotv4 from GitHub, as well as Sample Data (seq1/seq2 
 2) Type in kmer size (Note: large kmer sizes will not produce informative SPlots). Recommended: 3 or 4. <br>
 3) Type in window size (Note: the limit is system dependent -> size 500-5000 recommended, with a larger genome requiring larger size). <br>
 4) Type in Sequence Names (these are used for output file naming, as well as labeling the SPlot) <br>
-5) Click on the First/Second Sequence button and navigate to your sequence (NOTE: FASTA files do not work yet-> only sequences allowed, aka: all headers must be deleted). <br>
+5) Click on the First/Second Sequence button and navigate to your sequence (NOTE: FASTA files do not work yet-> only sequences allowed, aka: all headers/non-standard letters must be deleted). <br>
 6) Submit for SPlot Visualization. (Note: currently no loading screen) <br>
 
 #Deriving Results from SPlot
